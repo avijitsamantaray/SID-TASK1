@@ -113,4 +113,4 @@ function wingshide4()
     
     
 }
-setTimeout(web, 2000)
+
